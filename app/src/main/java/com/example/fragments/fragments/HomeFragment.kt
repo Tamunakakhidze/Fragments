@@ -31,9 +31,9 @@ class HomeFragment : Fragment(R.layout.fragment_home) {
             // HomeFragmentDirection-ს მიწითლებს მე, მგონი ანდროიდ სტუდიოს ვერსიის ბრალია მაგრამ
             // ვერ მოვახერხე ჯერ აფდეითი(ინტერნეტის გამო). იმედია თქვენთან სწორად იმუშავებს
 
-            val action = HomeFragmentDirections.actionNavigationHomeToNavigationNotification(amount)
+//            val action = HomeFragmentDirections.actionNavigationHomeToNavigationNotification(amount)
 
-            navController.navigate(action)
+//            navController.navigate(action)
         }
 
     }

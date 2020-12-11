@@ -16,7 +16,7 @@ class NotificationFragment : Fragment(R.layout.fragment_notification) {
 
         // notification fragment arg-საც მიწითლებდა
 
-        textView.text = NotificationFragmentArgs.fromBundle(requireArguments()).amount.toString()
+//        textView.text = NotificationFragmentArgs.fromBundle(requireArguments()).amount.toString()
 
 
 
